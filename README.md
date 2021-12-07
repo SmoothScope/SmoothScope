@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @SmoothScope
-- 👀 I’m interested in cloud and block chain development, as well as adoption.
-- 🌱 I’m currently learning AWS, AZURE, Network+, DeFi, Blockchain, POA or Proof of Authority blockchain DevOps.
-- 💞️ I’m looking to collaborate on block chain solutions in DeFi and Proof of Authority Blockchain Development.  New case uses for Blockchain.
+- Please forgive as I use my alter ego GamerTag from XBOX (feel free to friend request!
+I fell in love with blockchain when I discoverd it was possible to do business again like I saw my grandfather do on the farm, with a handshake.
+- 
+- 👀 I’m interested in developing business around real world web 3.0 use cases that allow people to trust each other; increase operational efficiency
+- 🌱 As a guarantor of authenticity, I am passionate about furthering the integrity of notarial acts through the implementation of blockchain and smart contract technologies.
+- 💞️ I’m looking to collaborate on use cases that promote wide spread adoption in North America.
 - 📫 Smoothscope@outlook.com
 
 
